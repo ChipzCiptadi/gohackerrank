@@ -16,7 +16,8 @@ func main() {
 	// arrays()
 	// dictionariesAndMaps()
 	// recursion()
-	binaryNumbers()
+	// binaryNumbers()
+	twoDArrays()
 }
 
 func readLine(reader *bufio.Reader) string {
