@@ -11,7 +11,12 @@ func main() {
 	// dataTypes
 	// conditionalStatements()
 	// classVsInstance()
-	loops()
+	// loops()
+	// reviewLoop()
+	// arrays()
+	// dictionariesAndMaps()
+	// recursion()
+	binaryNumbers()
 }
 
 func readLine(reader *bufio.Reader) string {
